@@ -1,0 +1,4 @@
+{
+  "/page": "app/page.js",
+  "/games/[provider]/[seo_title]/page": "app/games/[provider]/[seo_title]/page.js"
+}
